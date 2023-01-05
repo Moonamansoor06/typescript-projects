@@ -1,0 +1,21 @@
+{
+  "name": "currencyconverter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/clear": "^0.1.2",
+    "@types/figlet": "^1.5.5",
+    "@types/inquirer": "^9.0.3",
+    "clear": "^0.1.0",
+    "colors": "^1.4.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.1.4"
+  }
+}
